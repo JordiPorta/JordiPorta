@@ -13,14 +13,6 @@ Passionate about software architecture, and efficient systems.
 
 ---
 
-## 🚀 Projects & Interests
-- 🤖 Android & Cross-Platform Development  
-- 🧩 Procedural Generation
-- 🕹 Unity 2D/3D Game Development
-- 🎨 Game Design & Level Design
-
----
-
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jordi-porta-sol%C3%A0/)
 [![jordiportasolal@gmail.com](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](jordiportasolal@gmail.com)  
