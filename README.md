@@ -22,6 +22,6 @@ Passionate about software architecture, efficient systems.
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jordi-porta-sol%C3%A0/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](jordiportasolal@gmail.com)  
+[![jordiportasolal@gmail.com](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](jordiportasolal@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=flat-square)](https://github.com/jordiporta)
 
