@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Jordi Porta
 
 💻 Software Engineer  &  🎮 Game Developer
-Passionate about software architecture, efficient systems.
+
+Passionate about software architecture, and efficient systems.
 
 ---
 
